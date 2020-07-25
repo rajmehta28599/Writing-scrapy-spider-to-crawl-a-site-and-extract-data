@@ -25,7 +25,7 @@ Software : Anaconda prompt
 >response.css('title').getall()
 >response.css('title::text').getall()
 
-**make spider file to extract your data**
+**make spider ###quotes_spider file to extract your data**
 
 >import scrapy
 
